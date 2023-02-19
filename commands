@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m 'my message'
+git push -u origin master
+git push
+
+git branch
+
+git checkout -b commandBranch
